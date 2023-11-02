@@ -1,0 +1,15 @@
+.dvdv-img-person {
+  width: 58px;
+  height: 58px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px #fff;
+  transition: all 0.3s ease-in-out;
+}
+
+.dvdv-phone__icon-link-bot {
+  width: 58px;
+  height: 58px;
+  background-color: #e57979;
+}

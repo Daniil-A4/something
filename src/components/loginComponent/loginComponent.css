@@ -1,0 +1,15 @@
+.dvdv-wrapper-card {
+  box-shadow: none;
+  font-family: 'Roboto', sans-serif;
+  color: #212121;
+  /* padding: 0; */
+}
+
+.dvdv-wrapper-card .p-card-content {
+  padding: 0;
+}
+
+.dvdv-wrapper-card .p-card-body {
+  padding: 0;
+}
+

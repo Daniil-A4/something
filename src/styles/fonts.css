@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?va6wk9');
+  src:  url('fonts/icomoon.eot?va6wk9#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?va6wk9') format('truetype'),
+    url('fonts/icomoon.woff?va6wk9') format('woff'),
+    url('fonts/icomoon.svg?va6wk9#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow_right_icon:after {
+  content: "\e902";
+  color: #479DD7;
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  font-size: 50px;
+  transform: translate(-3%, -50%);
+}
+
+.third-page.icon-arrow_right_icon:after {
+  content: "\e902";
+  color: #cacccd;
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  font-size: 50px;
+  transform: translate(-3%, -50%);
+}
+
+.icon-telegram_icon-1:before {
+  content: "\e900";
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 27px;
+  transform: translate(-58%, -45%);
+}
+
+.icon-bg {
+  background-color: #479DD7;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  position: relative;
+}
+
+.icon-telegram_icon:before {
+  content: "\e901";
+  font-size: 35px;
+  color: #479DD7;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/Roboto-Regular.woff2'),
+    url('./fonts/Roboto-Regular.woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/Roboto-Medium.woff2'),
+    url('./fonts/Roboto-Medium.woff');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/Roboto-Bold.woff2'),
+    url('./fonts/Roboto-Bold.woff');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/Roboto-Black.woff2'),
+    url('./fonts/Roboto-Black.woff');
+  font-weight: 900;
+}

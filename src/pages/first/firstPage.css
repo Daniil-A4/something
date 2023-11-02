@@ -1,0 +1,71 @@
+
+/* ==========DROPDOWN================= */
+
+.p-dropdown:not(.p-disabled).p-focus {
+  box-shadow: unset;
+}
+
+.dvdv-items-in-list.p-highlight {
+  background-color: transparent;
+}
+
+.dvdv-input-filter:enabled:focus {
+  box-shadow: unset;
+}
+
+@media (any-hover: hover) {
+  /* .p-dropdown-items:hover.p-dropdown-item.p-highlight {
+    background-color: #fff;
+  } */
+
+  .dvdv-items-in-list:hover {
+    background-color: #f2f2f2;
+  }
+}
+
+.dvdv-dropdown-panel .p-dropdown-header {
+  padding: 0;
+  margin-top: -45px;
+}
+
+.dvdv-filter-icon {
+  top: 53%;
+  left: 88%;
+  margin-top: -0.5rem;
+  font-size: 15px;
+}
+
+/* =========INPUT================ */
+
+.dvdv-input-number:enabled:focus {
+  box-shadow: unset;
+}
+
+.dvdv-input-number:enabled:hover {
+  border-color: #1385d8;
+}
+
+.dvdv-decor-focus::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #1385d8;
+  transform: scale(0);
+  transition: transform 0.3s ease;
+}
+
+.dvdv-input-wrapper:focus-within .dvdv-decor-focus::after {
+  transform: scale(1);
+}
+
+.dvdv-absolute-custom {
+  bottom: -20px;
+  left: 30px;
+}
+
+.dvdv-dropdown-panel-custom {
+  display: none;
+}
