@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-auth/static/css/main.f4648387.css",
+    "main.js": "/react-auth/static/js/main.10ac3ef6.js",
+    "static/media/primeicons.svg": "/react-auth/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/react-auth/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/react-auth/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/Roboto-Medium.woff": "/react-auth/static/media/Roboto-Medium.b14ca2d2b289afceb0b0.woff",
+    "static/media/Roboto-Black.woff": "/react-auth/static/media/Roboto-Black.88d7f1b3ca9a9494d8e3.woff",
+    "static/media/Roboto-Bold.woff": "/react-auth/static/media/Roboto-Bold.3f2cbde6b72e8d05669f.woff",
+    "static/media/Roboto-Regular.woff": "/react-auth/static/media/Roboto-Regular.31012f9b3e3da44f87e8.woff",
+    "static/media/primeicons.eot": "/react-auth/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/react-auth/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/react-auth/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/Roboto-Medium.woff2": "/react-auth/static/media/Roboto-Medium.a25751b4ca7a11cb1c92.woff2",
+    "static/media/Roboto-Black.woff2": "/react-auth/static/media/Roboto-Black.df2773b3131bd989a80c.woff2",
+    "static/media/Roboto-Bold.woff2": "/react-auth/static/media/Roboto-Bold.f7e541c13902ec26c105.woff2",
+    "static/media/Roboto-Regular.woff2": "/react-auth/static/media/Roboto-Regular.38983b5533faad9d287c.woff2",
+    "static/media/primeicons.woff2": "/react-auth/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/01.png": "/react-auth/static/media/01.d916dfadc6df6acc45a6.png",
+    "static/media/icomoon.svg?va6wk9": "/react-auth/static/media/icomoon.abb4ba6c5bd5e7ef6b0f.svg",
+    "static/media/icomoon.eot?va6wk9": "/react-auth/static/media/icomoon.dca06936cba3916bca3d.eot",
+    "static/media/icomoon.woff?va6wk9": "/react-auth/static/media/icomoon.b59a0fd8c712525ae43f.woff",
+    "static/media/icomoon.ttf?va6wk9": "/react-auth/static/media/icomoon.48403cb8ea3e05bafc5e.ttf",
+    "index.html": "/react-auth/index.html",
+    "main.f4648387.css.map": "/react-auth/static/css/main.f4648387.css.map",
+    "main.10ac3ef6.js.map": "/react-auth/static/js/main.10ac3ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4648387.css",
+    "static/js/main.10ac3ef6.js"
+  ]
+}
