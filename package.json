@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Lucas2992.github.io/something",
   "name": "autorization_daniil_v",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lucas2992.github.io/something",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
